@@ -1,0 +1,18 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="txt2report-logo-light">
+<rect id="bg" width="220" height="220" rx="35" fill="black"/>
+<g id="report">
+<mask id="mask0_267_22" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="53" y="40" width="114" height="139">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M155.833 42H64.1667C61.7355 42 59.4039 43.1853 57.6849 45.295C55.9658 47.4048 55 50.2663 55 53.25V165.75C55 168.734 55.9658 171.595 57.6849 173.705C59.4039 175.815 61.7355 177 64.1667 177H155.833C158.264 177 160.596 175.815 162.315 173.705C164.034 171.595 165 168.734 165 165.75V53.25C165 50.2663 164.034 47.4048 162.315 45.295C160.596 43.1853 158.264 42 155.833 42Z" stroke="white" stroke-width="2.66667" stroke-linejoin="round"/>
+<path id="Vector_2" d="M116.111 109.5H79.4444M140.556 75.75H79.4444M134.444 143.25H79.4444" stroke="white" stroke-width="2.66667" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_267_22)">
+<path id="Vector_3" d="M36.6667 19.5H183.333V199.5H36.6667V19.5Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
